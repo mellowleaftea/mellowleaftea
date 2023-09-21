@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mellowleaftea
-- 👀 I’m interested in app development for iOS.
-- 🌱 I’m currently learning Swift.
+- 👀 I’m interested in backend development with Python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me -> mariianechai@gmail.com
 
